@@ -2,6 +2,10 @@ Welcome to my kitchen
 Chicken
 Burger
 
+New stuff added
+Pizza
+Chowmeen
+
 
 Thanks
 Done my changes and commit my changes
